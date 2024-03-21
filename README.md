@@ -1,1 +1,3 @@
-# jz
+# 👋 Hello!
+- ☕️ Passionate about all things tech, fitness, and coffee
+- Find out more at ... 
