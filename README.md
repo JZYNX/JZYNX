@@ -1,3 +1,3 @@
 # 👋 Hello!
 - ☕️ Passionate about all things tech, fitness, and coffee
-- Find out more at ... 
+- Find out more at https://jasont-portfolio.netlify.app/
